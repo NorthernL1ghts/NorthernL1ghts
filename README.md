@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @NorthernL1ghts.
-- 👀 I’m interested in Software development.
-- 🌱 I’m currently learning "Game Engine" programming & scripting.
-- 💞️ I’m looking to collaborate on Hazel (Game Engine).
-- 📫 How to reach me ...
+- 👀 I’m interested in Software Development / Software Engineering.
+- 🌱 I’m currently learning "AI intergation with Machine Learning techinques like NN's and more.
+- 💞️ I’m looking to collaborate with anyone who is interested in the same field (ML and AI).
 
 <!---
 NorthernL1ghts/NorthernL1ghts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
