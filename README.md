@@ -30,9 +30,9 @@ I am a Software Engineer, and I mainly work on AI & ML but I also work on low-le
 ---
 
 ### 🔥 My Stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthernL1ghts&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🏆 My Achievements
 [![NorthernL1ghts's Trophy](https://github-profile-trophy.vercel.app/?username=NorthernL1ghts&theme=darkhub&title=-Stars,-Followers,-Issues,-Reviews,-Commits,-PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
