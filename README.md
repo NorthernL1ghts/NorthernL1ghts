@@ -28,6 +28,4 @@ I am a Software Engineer from Germany, and I mainly work on AI & ML but I also w
 ---
 
 ### 🔥 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NorthernL1ghts&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthernL1ghts&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
