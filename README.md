@@ -1,5 +1,3 @@
-## Hello there! 👋
-
 <div id="header">
     <h1>
         Hello there! 
