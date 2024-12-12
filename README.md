@@ -1,21 +1,23 @@
+## Hello there! 👋
+
 <div id="header">
-	<h1>
-		Hello there! 
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-	</h1>
+    <h1>
+        Hello there! 
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>
 </div>
 
 ---
 
 ### 👨‍💻 About Me:
-I am a Software Engineer, and I mainly work on AI & ML but I also work on low level systems as well.
+I am a Software Engineer, and I mainly work on AI & ML but I also work on low-level systems as well.
 
-- 💼 I currently work as a senior software engineer
-- ⚡ I'm currently working on my own ASI program and some other interesting projects.
-- ☕ I love coffee, and will become a cave gremlin if I can't have it.
-- 🎮 I've participated in the numerous challenges for AI / ML.
+- 💼 I currently work as a senior software engineer.
+- ⚡ I'm working on my own ASI program and some other interesting projects.
+- ☕ I love coffee and will become a cave gremlin if I can't have it.
+- 🎮 I've participated in numerous AI/ML challenges.
 
---- 
+---
 
 ### 🛠️ Languages and Tools
 <div>
@@ -28,4 +30,9 @@ I am a Software Engineer, and I mainly work on AI & ML but I also work on low le
 ---
 
 ### 🔥 My Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthernL1ghts&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![NorthernL1ghts's Trophy](https://github-profile-trophy.vercel.app/?username=NorthernL1ghts&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
