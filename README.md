@@ -8,9 +8,8 @@
 ---
 
 ### 👨‍💼 About Me:
-I am a Software Engineer, and I mainly work on AI & ML but I also worked as system level programmer in C / C++
+I mainly work on AI & ML but I also worked as system level programmer in C / C++
 
-- 🎼 I currently work as a senior software engineer.
 - ⚡ I'm working on my own ASI program and some other interesting projects.
 - ☕ I love coffee and will become a cave gremlin if I can't have it.
 - 🎮 I've participated in numerous AI/ML challenges.
